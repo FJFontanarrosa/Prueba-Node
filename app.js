@@ -1,1 +1,1 @@
-let repoGit 
+let repoGit = [23,4,5,7];
